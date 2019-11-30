@@ -1,5 +1,6 @@
 @extends('layouts.master')
 @section('title', 'Clean Blog - Sample Post')
+@section('content')
 <!-- Page Header -->
 <!-- Set your background image for this header on the line below. -->
 <header class="intro-header" style="background-image: url('img/post-bg.jpg')">
@@ -16,8 +17,8 @@
     </div>
 </header>
 
-@section('content')
-@endsection
+
+
 <!-- Post Content -->
 <article>
     <div class="container">
@@ -61,3 +62,4 @@
         </div>
     </div>
 </article>
+@endsection
