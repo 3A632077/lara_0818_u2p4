@@ -1,5 +1,6 @@
 @extends('layouts.master')
 @section('title', 'Clean Blog')
+@section('content')
 <header class="intro-header" style="background-image: url('img/home-bg.jpg')">
     <div class="container">
         <div class="row">
@@ -72,3 +73,4 @@
         </div>
     </div>
 </div>
+@endsection
