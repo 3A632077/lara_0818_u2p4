@@ -1,7 +1,3 @@
-<html>
-
-<body>
-
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
     <div class="container-fluid">
@@ -35,8 +31,3 @@
     </div>
     <!-- /.container -->
 </nav>
-
-
-</body>
-
-</html>
